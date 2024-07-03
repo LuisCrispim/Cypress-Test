@@ -1,0 +1,30 @@
+{
+"usuarios": [
+    {
+        "name": "Alice Silva",
+        "email": "alice.silva@example.com.br",
+        "password": "Senha1234"
+    },
+    {
+        "name": "Bruno Costa",
+        "email": "bruno.costa@example.org",
+        "password": "Senha4567"
+    },
+    {
+        "name": "Carla Ferreira",
+        "email": "carla.ferreira@example.com.br",
+        "password": "Senha7890"
+    },
+    {
+        "name": "Daniel Souza",
+        "email": "daniel.souza@example.org",
+        "password": "Senha3210"
+    },
+    {
+        "name": "Eduarda Lima",
+        "email": "eduarda.lima@example.com.br",
+        "password": "Senha6543"
+    }
+]
+
+}

@@ -1,0 +1,11 @@
+{
+  "name": "estudo-cypress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "<Luís Felipe Crispim>",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^13.12.0",
+    "mochawesome": "^7.1.3"
+  }
+}
