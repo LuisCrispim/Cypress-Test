@@ -1,0 +1,1 @@
+Projeto de estudos da ferramenta CYPRESS, nesse projeto usei o site AdoPet que foi criado pela ALURA. Junto com as aulas desenvolvi testes e2e e fui além usando outras funções que achei enquanto estudada por fora.  
