@@ -42,8 +42,6 @@ Este repositório contém testes automatizados usando Cypress para validar funci
 
     Isso abrirá o Test Runner do Cypress, onde você pode selecionar e executar os testes.
 
-## Contribuições
 
-Sinta-se à vontade para contribuir! Você pode abrir issues para reportar bugs ou sugerir melhorias, e enviar pull requests com suas alterações.
 
 
